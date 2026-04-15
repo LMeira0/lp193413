@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 2757
+Data        : 09/04/2026
+Objetivo    : Devolver valores com diferentes casas decimais.
+Aprendizado : Aprendi a usar if e mostrar valores com um certo numero de espacamentos ou zeros
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
  
 int main() {
