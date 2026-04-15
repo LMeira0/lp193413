@@ -2,8 +2,8 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : NNNN
-Data        : 09/04/2026
+Exercício   : 1013
+Data        : 07/04/2026
 Objetivo    : Descobrir qual eh o maior valor.
 Aprendizado : aprendi a usar scanf, determinar variaveis e dar um valor a elas
 -------------------------------------------------------------------------- */
