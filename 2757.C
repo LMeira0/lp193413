@@ -1,7 +1,8 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Leonardo Freire Meira
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/search
+Plataforma  : https://judge.beecrowd.com/pt/problems/view/2727
 Exercício   : 2757
 Data        : 09/04/2026
 Objetivo    : Devolver valores com diferentes casas decimais.
