@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Leonardo Freire Meira
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/search
+Plataforma  : https://judge.beecrowd.com/pt/problems/view/1071
 Exercício   : 1071
 Data        : 14/04/2026
 Objetivo    : Fazer a soma dos valores impares dentro de um intervalo de numeros.
