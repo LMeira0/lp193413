@@ -1,7 +1,8 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Leonardo Freire Meira
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/search
+Plataforma  : https://judge.beecrowd.com/pt/problems/view/2758
 Exercício   : 2758
 Data        : 09/04/2026
 Objetivo    : Mostrar valores com 1, 2, 3 e 0 casas decimais.
