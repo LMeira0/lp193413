@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Leonardo Freire Meira
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1253
+Data        : 26/04/2026
+Objetivo    : Cancelar o a Cifra de Cesar.
+Aprendizado : Logica para manusear letras.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main() {
