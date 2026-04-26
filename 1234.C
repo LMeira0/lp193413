@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Leonardo Freire Meira
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1234
-Data        : 16/04/2026
+Data        : 26/04/2026
 Objetivo    : Intercalar entre maiuscula e minuscula a frase lida.
 Aprendizado : Usar fgets, usar extensoes para deixar maiuscula e minuscula.
 -------------------------------------------------------------------------- */
