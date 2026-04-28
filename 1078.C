@@ -1,3 +1,12 @@
+* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Leonardo Freire Meira
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1078
+Data        : 28/04/2026
+Objetivo    : Fazer a multiplicação de um número N.
+Aprendizado : Fazer tabuada de qualquer número.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
  
 int main() {
