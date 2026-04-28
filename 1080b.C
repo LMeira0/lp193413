@@ -26,7 +26,7 @@ int main() {
         }
     }
     
-    printf("%d", maior);
+    printf("%d\n", maior);
     printf("%d", posicao);
     return 0;
 }
