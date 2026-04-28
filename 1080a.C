@@ -13,7 +13,7 @@ int main() {
     
     int x, y, maior = -1, posicao = -1, i;
     
-    for (i = 0; i < 10; i++) {
+    for (i = 0; i < 100; i++) {
         scanf("%d", &x);
         
         if (x < 0) {
