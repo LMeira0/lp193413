@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Leonardo Freire Meira
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1241
+Data        : 05/05/2026
+Objetivo    : Saber se uma string encaixa ou nao nao outra.
+Aprendizado : Comparar digitos.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <string.h>
 
