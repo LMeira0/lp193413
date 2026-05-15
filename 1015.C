@@ -5,22 +5,25 @@ Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/problems/view/1000
 Exercício   : 1000
 Data        : 07/04/2026
-Objetivo    : Distancia entre coordenadas.
-Aprendizado : Usar a biblioteca math.h.
+Objetivo    : Calcular a distancia entre pontos.
+Aprendizado : aprendi a usar funcoes.
 -------------------------------------------------------------------------- */
 
-#include <stdio.h>
-#include <math.h>
- 
-int main() {
- 
-    float x1, x2, y1, y2, d;
-    
-    scanf("%f %f", &x1, &y1);
-    scanf("%f %f", &x2, &y2);
-    
-    d = sqrt(pow((x2 - x1), 2) + pow((y2 - y1), 2));
-    printf("%.4f\n", d);
- 
+#include<stdio.h>
+#include<math.h>
+
+float funcao(float *x1,float *y1,float *x2,float *y2){
+    return sqrt(pow(*x2-*x1,2)+pow(*y2-*y1,2));
+}
+int main(){
+    float x1,x2,y1,y2,d;
+
+    scanf("%f %f",&x1,&y1);
+    scanf("%f %f",&x2,&y2);
+
+    d = funcao(&x1,&y1,&x2,&y2);
+
+    printf("%.4f\n",distancia);
+
     return 0;
 }
