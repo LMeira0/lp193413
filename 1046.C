@@ -18,7 +18,7 @@ int calcularDuracao(int inicio, int fim){
     }
     else {
         return 24 - inicio + fim;
-    };
+    }
 }
 
 int main() {
