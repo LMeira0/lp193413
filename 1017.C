@@ -2,8 +2,8 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Leonardo Freire Meira
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1534
-Data        : 13/05/2026
+Problema    : https://judge.beecrowd.com/pt/problems/view/1017
+Data        : 19/05/2026
 Objetivo    : Calcular quantos litros vai gastar.
 Aprendizado : .
 -------------------------------------------------------------------------- */
