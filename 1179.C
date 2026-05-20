@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Leonardo Freire Meira
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/problems/view/1179
-Exercício   : 11179
+Exercício   : 1179
 Data        : 19/05/2026
 Objetivo    : Imprimir os valores pares e impares.
 Aprendizado : .
