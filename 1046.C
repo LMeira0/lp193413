@@ -29,7 +29,7 @@ int main() {
 
     c = calcularDuracao(a, b);
 
-    printf("O JOGO DUROU %d HORA(S)", c);
+    printf("O JOGO DUROU %d HORA(S)\n", c);
 
     return 0;
 }
