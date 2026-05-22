@@ -28,7 +28,7 @@ int main() {
             getchar();
 
             fgets(v[i].nome, 50, stdin);
-            v[i].nome[strcspn(v[i].nome, "\n")] = '\0'; // Remove o \n final
+            v[i].nome[strcspn(v[i].nome, "\n")] = '\0';
 
             scanf("%s %c", v[i].cor, &v[i].tamanho);
         }
