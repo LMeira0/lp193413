@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Leonardo Freire Meira
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1028
+Data        : 26/05/2026
+Objetivo    : calcular o mdc.
+Aprendizado : calcular o mdc usando recursao.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int mdc(int a, int b){
