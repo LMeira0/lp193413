@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Leonardo Freire Meira
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1028
+Problema    : https://judge.beecrowd.com/pt/problems/view/1029
 Data        : 26/05/2026
 Objetivo    : calcular o fibonacci de algum numero.
 Aprendizado : calcular o fibonacci usando recursao.
