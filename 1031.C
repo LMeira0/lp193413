@@ -5,7 +5,7 @@ Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/problems/view/1031
 Exercício   : 1031
 Data        : 10/06/2026
-Objetivo    : Ssaber qual vai sera a aleatoriedade da regioes que serao desconectadas.
+Objetivo    : Saber qual vai sera a aleatoriedade da regioes que serao desconectadas.
 Aprendizado : .
 -------------------------------------------------------------------------- */
 #include <stdio.h>
