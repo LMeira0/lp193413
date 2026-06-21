@@ -23,7 +23,7 @@ int main(){
 
     d = funcao(&x1,&y1,&x2,&y2);
 
-    printf("%.4f\n",distancia);
+    printf("%.4f\n", distancia);
 
     return 0;
 }
