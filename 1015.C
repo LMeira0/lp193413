@@ -2,8 +2,8 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Leonardo Freire Meira
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/problems/view/1000
-Exercício   : 1000
+Plataforma  : https://judge.beecrowd.com/pt/problems/view/1015
+Exercício   : 1015
 Data        : 07/04/2026
 Objetivo    : Calcular a distancia entre pontos.
 Aprendizado : aprendi a usar funcoes.
