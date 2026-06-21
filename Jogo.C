@@ -4,7 +4,7 @@ Nome        : Leonardo Freire Meira
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/problems/view/
 Exercício   : Sudoku
-Data        : 21/05/2026
+Data        : 21/06/2026
 Objetivo    : Fazer o jogo completo do sudoku.
 Aprendizado : Usar uma logica um pouco mais elaborada pra desenvolver um codigo.
 -------------------------------------------------------------------------- */
