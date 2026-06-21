@@ -5,33 +5,32 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1534
 Data        : 13/05/2026
 Objetivo    : Criar uma matriz especifica.
-Aprendizado : Criar matrizes com padroes.
+Aprendizado : Criar matrizes com padroes e evitar ponteiros em contadores de laço.
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
 
 int main() {
-
     int n, i, f;
-    int *pn = &n, *pf = &f, *pi = &i;
 
+    while (scanf("%d", &n) != EOF) {
 
-    while(scanf("%d", pn) != EOF){
-
-        for(*pi=0;  *pi<n; *pi++){
-            for(*pf=0;  *pf<n; *pf++){
-                if(*pi + *pf == *pn - 1){
+        for (i = 0; i < n; i++) {
+            for (f = 0; f < n; f++) {
+                
+                if (i + f == n - 1) {
                     printf("2");
                 }
-                else if(*pi == *pf){
+                else if (i == f) {
                     printf("1");
                 }
-                else{
+                else {
                     printf("3");
                 }
             }
             printf("\n");
         }
     }
+    
     return 0;
 }
