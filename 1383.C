@@ -57,9 +57,9 @@ int main() {
         }
         printf("Instancia %d\n", f + 1);
         if(ok) {
-            printf("SIM\n");
+            printf("SIM\n\n");
         } else {
-            printf("NAO\n");
+            printf("NAO\n\n");
         }
     }
     return 0;
