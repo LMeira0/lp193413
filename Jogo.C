@@ -98,7 +98,7 @@ int main(int argc, char *argv[]) {
     }
 
 	while(ok == 0) {
-        printf("     S U D O K U\n");
+
 		for(int i = 0; i < 9; i++) {
 			for(int j = 0; j < 9; j++) {
 				printf("%d ", matriz[i][j]);
@@ -174,7 +174,7 @@ int main(int argc, char *argv[]) {
         }   
 
 	}
-     printf("     S U D O K U\n");
+
     for(int i = 0; i < 9; i++) {
 			for(int j = 0; j < 9; j++) {
 				printf("%d ", matriz[i][j]);
